@@ -1,3 +1,7 @@
+---
+layout:new_css
+---
+
 # Hello World
 
 Here's my todo list:
